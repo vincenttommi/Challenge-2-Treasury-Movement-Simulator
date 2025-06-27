@@ -92,10 +92,6 @@ function App() {
                 <p className="text-sm text-gray-500">Financial Operations Dashboard</p>
               </div>
             </div>
-            <div className="flex items-center space-x-2 bg-green-50 px-3 py-2 rounded-lg">
-              <Shield size={16} className="text-green-600" />
-              <span className="text-sm font-medium text-green-700">Secure Environment</span>
-            </div>
           </div>
         </div>
       </header>
